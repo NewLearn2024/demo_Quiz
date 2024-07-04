@@ -3,7 +3,7 @@ import json
 
 def run():
     st.set_page_config(
-        page_title="NewLearn team Quiz",
+        page_title="NewLearn Quiz App",
         page_icon="❓",
     )
 
